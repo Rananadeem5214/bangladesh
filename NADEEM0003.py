@@ -266,7 +266,7 @@ def automatic():
     jalan('[✅] \x1b[1;97mTotal Numbers: ' + xxx)
     jalan('\x1b[1;97m[✅] \x1b[1;97mTrying Passwords Wait...')
     print 50 * '\x1b[1;95m◈'
-    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
+    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Rana Nadeem Rajput ◈◈◈◈◈◈◈◈◈◈◈ '
 
     def main(arg):
         user = arg
